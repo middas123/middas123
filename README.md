@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/boitumelo middas mokobane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boitumelo middas mokobane" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/boitumelo middas mokobane](https://www.linkedin.com/in/boitumelo-middas-mokobane-544280148/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boitumelo middas mokobane" height="30" width="40" /></a>
 <a href="https://instagram.com/middasmoks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="middasmoks" height="30" width="40" /></a>
 <a href="https://discord.gg/middas_mokobane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="middas_mokobane" height="30" width="40" /></a>
 </p>
