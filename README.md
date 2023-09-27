@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React,AWS and DevOps from coursera**
 
-- 🤝 I’m looking for Job/Post **Frontend development**
+- 🤝 I’m looking for Job/Post or Projects **Frontend development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/middas123](https://github.com/middas123)
 
