@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=middas123" alt="middas123" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio Website](https://vivid-now-332706.web.app/)
+- 🔭 I’m currently working on [Portfolio Website](https://vivid-now-332706.web.app/ 
 
 - 🌱 I’m currently learning **React, DevOps from coursera**
 
