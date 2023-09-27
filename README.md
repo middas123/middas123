@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mokobane Boitumelo Middas</h1>
-<h3 align="center">A passionate frontend developer from Cape Town South Africa</h3>
+<h3 align="center">A passionate frontend react developer from Cape Town South Africa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=middas123&label=Profile%20views&color=0e75b6&style=flat" alt="middas123" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Portfolio Website](https://vivid-now-332706.web.app/)
 
-- 🌱 I’m currently learning **React, DevOps from coursera**
+- 🌱 I’m currently learning **React,AWS and DevOps from coursera**
 
-- 🤝 I’m looking for help with **Frontend development**
+- 🤝 I’m looking for Job/Post **Frontend development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/middas123](https://github.com/middas123)
 
